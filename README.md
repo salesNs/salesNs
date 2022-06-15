@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá meu nome é @salesNs
+- 👋 Olá meu nome é **@salesNs**
 - 👍 meu email de contato é e nicolassales713@gmail.com
 - 👀 Eu estou interessado em aprender novas linguagens de programação.
 - 🌱 Eu estou aprendendo a programar em linguagem de JavaScript e Scratch
