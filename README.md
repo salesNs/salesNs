@@ -1,10 +1,9 @@
 # Sobre mim
-- 👋 Hi, I’m @salesNs
-- meu email de contato é e
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá meu nome é @salesNs
+- 👍 meu email de contato é e nicolassales713@gmail.com
+- 👀 Eu estou interessado em aprender novas linguagens de programação.
+- 🌱 Eu estou aprendendo a programar em linguagem de JavaScript e Scratch
+
 
 <!---
 salesNs/salesNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
